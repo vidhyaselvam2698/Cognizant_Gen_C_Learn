@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FeedBack Details</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        #container {
+            display: grid;
+            place-items: center;
+        }
+
+        input {
+            margin-top: 1rem;
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+        }
+    </style>
+</head>
+<body>
+<div id="container">
+    <h1>Feedback for the ART OF LIVING session</h1>
+    <form onsubmit="addFeedback(); return false;">
+        <div>
+            <label for="feedback">Enter the Feedback:</label>
+            <textarea name="feedback" id="feedback" cols="30" rows="3" required></textarea>
+        </div>
+        <input type="submit" id="create" value="Add Feedback">
+        <input type="button" id="view" value="View Feedback" onclick="displayFeedback()">
+    </form>
+</div>
+<div id="result"></div>
+<script src="script.js"></script>
+</body>
+</html>
