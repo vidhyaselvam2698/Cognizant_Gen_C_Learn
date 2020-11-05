@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CALCULATOR</title>
+    <style>
+        body {
+            display: grid;
+            place-items: center;
+        }
+
+        button {
+            border: none;
+            background-color: transparent;
+        }
+    </style>
+</head>
+
+<body>
+    <font color="blue" size="20">Calculator</font>
+    <img src="calculator.jpg" alt="calculator" style="height: 300px; width: 400px;">
+    <form onsubmit="calculate(); return false;">
+        <table>
+            <tr>
+                <td>
+                    <label for="input1">Input1</label>
+                </td>
+                <td>
+                    <input type="number" name="input1" id="input1" required>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="input2">Input2</label>
+                </td>
+                <td>
+                    <input type="number" name="input2" id="input2" required>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="operation">Select Operation</label>
+                </td>
+                <td>
+                    <select name="operation" id="operation" required>
+                        <option value="Select..">Select..</option>
+                        <option value="ADD">ADD</option>
+                        <option value="SUBTRACT">SUBTRACT</option>
+                        <option value="MULTIPLY">MULTIPLY</option>
+                        <option value="DIVIDE">DIVIDE</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit" name="submit" id="submit">
+                        <img src="calc.jpg" alt="calculate" style="height: 80px; width: 80px;">
+                    </button>
+                </td>
+                <td>
+                    <button type="reset" name="reset" id="reset">
+                        <img src="reset.jpg" alt="calculate" style="height: 80px; width: 80px;">
+                    </button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>
