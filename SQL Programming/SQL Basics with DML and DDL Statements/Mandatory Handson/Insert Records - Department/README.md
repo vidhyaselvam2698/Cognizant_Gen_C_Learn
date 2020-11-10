@@ -8,6 +8,6 @@ Insert the following records into the department table
 | 2 | IT | 3 |
 | 3 | SE | 3 |
 
-![database 4](../../../database_4.jpg)
+![database 4](../../../database_1.jpg)
 
 

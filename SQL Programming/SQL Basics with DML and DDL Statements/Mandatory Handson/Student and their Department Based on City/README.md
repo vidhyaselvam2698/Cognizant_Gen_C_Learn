@@ -2,4 +2,4 @@
 
 Write a query to display list of students name and their department name who are all from 'Coimbatore'. Sort the result based on students name  
 
-![database 4](../../../database_4.jpg)
+![database 4](../../../database_1.jpg)
