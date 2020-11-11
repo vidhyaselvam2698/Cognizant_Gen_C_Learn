@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+header {
+    background-color: rebeccapurple;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.25rem 1rem;
+}
+
+#branding {
+    font-size: x-large;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+#branding .material-icons {
+    font-size: 3rem;
+    padding: 0 1rem;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+}
+
+.nav-item {
+    margin-right: 5rem;
+}
+
+section {
+    height: 90%;
+    padding: 0 5rem;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.caption {
+    text-align: start;
+    font-size: x-large;
+    margin: 1rem 0;
+    align-self: start;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+table tr th, td {
+    padding: 0.25rem 0;
+}
+
+.left-align {
+    text-align: left;
+}
+
+.right-align {
+    text-align: end;
+}
+
+section table tr td a:link {
+    color: black;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    padding: 1rem 0;
+    background-color: lightgrey;
+    width: 100%;
+}
+
+.notification {
+    color: mediumseagreen;
+    margin-bottom: 2rem;
+    font-weight: bold;
+}
+
+.empty-cart {
+    align-self: start;
+    color: grey;
+    font-weight: bold;
+}
+
+tfoot {
+    font-weight: bold;
+}
+
+form {
+    width: 100%;
+}
+
+label {
+    display: block;
+    margin: 4px 0;
+}
+
+.radio-label {
+    display: inline;
+    padding: 0 8px;
+}
+
+.input {
+    margin: 1rem;
+}
+
+#title {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container .input {
+    width: 25%;
+}
+
+.input input, select {
+    padding: 4px;
+}
+
+.container .input input[type="date"] {
+    padding: 2px;
+}
+
+.container .input input[type="radio"], input[type="checkbox"] {
+    border: 0;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.in-stock-input {
+    display: flex;
+    align-items: center;
+}
+
+#price {
+    width: 50%;
+}
+
+#category {
+    width: 100%;
+}
+
+#submit {
+    background-color: rebeccapurple;
+    color: white;
+    padding: 1rem 4rem;
+    outline: none;
+    border: none;
+}

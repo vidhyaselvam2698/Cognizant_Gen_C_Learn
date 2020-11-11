@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Menu Item</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+<header>
+    <div id="branding">
+        <span>truYum</span>
+        <i class="material-icons">restaurant_menu</i>
+    </div>
+    <nav>
+        <ul>
+            <li><a class="nav-item" href="menu-item-list-admin.html">Menu</a></li>
+        </ul>
+    </nav>
+</header>
+<section>
+    <p class="caption">Edit Menu Item</p>
+    <form action="#">
+        <div class="input">
+            <label for="title">Name</label>
+            <input type="text" id="title" name="title" min="2" max="26" required>
+        </div>
+        <div class="container">
+            <div class="input">
+                <label for="price">Price (Rs.)</label>
+                <input type="number" id="price" name="price" min="1" required>
+            </div>
+            <div class="input">
+                <label for="inStock">Active</label>
+                <div class="in-stock-input">
+                    <input type="radio" id="yes" name="inStock" required>
+                    <label class="radio-label" for="yes">Yes</label>
+                    <input type="radio" id="no" name="inStock" required>
+                    <label class="radio-label" for="no">No</label>
+                </div>
+            </div>
+            <div class="input">
+                <label for="dateOfLaunch">Date of Launch</label>
+                <input type="date" name="dateOfLaunch" id="dateOfLaunch" required>
+            </div>
+            <div class="input">
+                <label for="category">Category</label>
+                <select name="category" id="category" required>
+                    <option value="starters">Starters</option>
+                    <option value="main-course">Main Course</option>
+                    <option value="dessert">Dessert</option>
+                    <option value="drinks">Drinks</option>
+                </select>
+            </div>
+        </div>
+        <div class="input">
+            <div class="in-stock-input">
+                <input type="checkbox" name="free-delivery" id="free-delivery" required>
+                <label class="radio-label" for="free-delivery">Free Delivery</label>
+            </div>
+        </div>
+        <div class="input">
+            <input type="submit" id="submit" name="submit" value="Save">
+        </div>
+    </form>
+</section>
+<footer>
+    <p>Copyright @ 2019</p>
+</footer>
+</body>
+</html>
