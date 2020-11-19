@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="custObj" class="com.springcore.app.Customer">
+
+        <constructor-arg index="0" value="101"/>
+        <constructor-arg index="1" value="Ritam"/>
+        <constructor-arg index="2" value="ritam@gmail.com"/>
+        <constructor-arg index="3" value="9876543210"/>
+    </bean>
+
+    <bean id="memeberShipObj" class="com.springcore.app.MemberShip">
+
+        <constructor-arg index="0" value="1001"/>
+        <constructor-arg index="1" value="Permanent"/>
+        <constructor-arg index="2" value="10"/>
+        <constructor-arg index="3" ref="custObj"/>
+    </bean>
+
+</beans>
