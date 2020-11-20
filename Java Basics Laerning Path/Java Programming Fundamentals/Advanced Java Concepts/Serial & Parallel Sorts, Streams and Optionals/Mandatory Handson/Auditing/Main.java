@@ -55,7 +55,7 @@ public class Main {
                 }
             } else {
                 System.out.println("Let’s complete the session");
-                break;
+                System.exit(0);
             }
         }
     }
