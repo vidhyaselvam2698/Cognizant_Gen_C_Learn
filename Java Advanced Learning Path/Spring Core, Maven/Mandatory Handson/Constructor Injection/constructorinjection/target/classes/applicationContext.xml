@@ -1,22 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
 
-    <bean id="custObj" class="com.springcore.app.Customer">
-
-        <constructor-arg index="0" value="101"/>
-        <constructor-arg index="1" value="Ritam"/>
-        <constructor-arg index="2" value="ritam@gmail.com"/>
-        <constructor-arg index="3" value="9876543210"/>
+    <bean id="custObj" class="com.spring.app.Customer">
+        <constructor-arg value="1" type="int" index="0"/>
+        <constructor-arg value="SD" type="String" index="1"/>
+        <constructor-arg value="S@s.com" type="String" index="2"/>
+        <constructor-arg value="1234567890" type="long" index="3"/>
     </bean>
 
-    <bean id="memeberShipObj" class="com.springcore.app.MemberShip">
-
-        <constructor-arg index="0" value="1001"/>
-        <constructor-arg index="1" value="Permanent"/>
-        <constructor-arg index="2" value="10"/>
-        <constructor-arg index="3" ref="custObj"/>
+    <bean id="member" class="com.spring.app.MemberShip">
+        <constructor-arg value="100" type="int" index="0"/>
+        <constructor-arg value="Permanent" type="String" index="1"/>
+        <constructor-arg value="-1" type="int" index="2"/>
+        <constructor-arg ref = "custObj"/>
     </bean>
-
 </beans>
