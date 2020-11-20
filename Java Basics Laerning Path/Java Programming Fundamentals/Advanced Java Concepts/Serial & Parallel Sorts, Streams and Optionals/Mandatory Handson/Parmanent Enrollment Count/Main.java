@@ -3,16 +3,12 @@ import java.util.Scanner;
 import java.util.stream.Stream;
 
 public class Main {
-    public static Stream<String> getDepartments(String rollNumbers) {
-        return Arrays.stream(rollNumbers.split(",")).map(string -> string.substring(0, 2));
-    }
-
     public static Stream<String> getRollNumbers(String rollNumbers) {
-        return Arrays.stream(rollNumbers.split(",")).map(string -> string.substring(2));
+        return Arrays.stream(rollNumbers.split(","));
     }
 
     public static int getCount(Stream<String> rollNumberStream, String deptAcronym) {
-        return (int) rollNumberStream.filter(rollNumber -> rollNumber.equalsIgnoreCase(deptAcronym)).count();
+        return (int) rollNumberStream.filter(rollNumber -> rollNumber.substring(0, 2).equalsIgnoreCase(deptAcronym)).count();
     }
 
     public static void main(String[] args) {
@@ -20,11 +16,11 @@ public class Main {
 
         System.out.println("Enter all roll numbers separated by comma");
         String rollNumbers = scanner.nextLine();
-        Stream<String> departments = getDepartments(rollNumbers);
+        Stream<String> rollNumberStream = getRollNumbers(rollNumbers);
 
         System.out.println("Enter the department name acronym");
         String deptAcronym = scanner.nextLine();
-        int count = getCount(departments, deptAcronym);
+        int count = getCount(rollNumberStream, deptAcronym);
 
         if (count > 0) {
             System.out.println("Number of students in " + deptAcronym + " is " + count);
