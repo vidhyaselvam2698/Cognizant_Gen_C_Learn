@@ -2,14 +2,14 @@ import java.util.Scanner;
 
 public class UserInterface {
     public static CommissionInfo generateCommissionObtained() {
-        return ticket -> ticket.getClassType().matches("^(SL|2S)$")
+        return ticket -> ticket.getClassType().toUpperCase().matches("^(SL|2S)$")
                 ? 60
-                : ticket.getClassType().matches("^(1A|2A|3A)$") ?
+                : ticket.getClassType().toUpperCase().matches("^(1A|2A|3A)$") ?
                 100
                 : 0;
     }
 
-    public static void func(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double totalCommission = 0.0;
 
@@ -17,7 +17,7 @@ public class UserInterface {
         int n = scanner.nextInt();
 
         for (int i = 0; i < n; ++i) {
-            System.out.println(String.format("Details of the Passenger %d:", (i + 1)));
+            System.out.println(String.format("Details of Passenger %d:", (i + 1)));
             System.out.println("Enter the pnr no:");
             long pnrNo = scanner.nextLong();
             System.out.println("Enter passenger name:");
