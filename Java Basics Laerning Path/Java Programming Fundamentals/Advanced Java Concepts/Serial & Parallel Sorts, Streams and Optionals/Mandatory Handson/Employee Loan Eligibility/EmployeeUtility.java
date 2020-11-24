@@ -16,6 +16,7 @@ public class EmployeeUtility {
 
             return employee;
         }).toArray();
+
         return Arrays.copyOf(objects, objects.length, Employee[].class);
     }
 
@@ -24,7 +25,12 @@ public class EmployeeUtility {
     }
 
     public String[] shortlistedEmployee(Stream<Employee> empStream, double minSalary) {
-        Object[] objects = empStream.filter(employee -> employee.getSalary() >= minSalary).sorted((e1, e2) -> e1.getEmpId().compareTo(e2.getEmpId())).map(employee -> String.format("%s %s %.1f", employee.getEmpId(), employee.getEmpName(), employee.getSalary())).toArray();
+        Object[] objects = empStream.filter(employee -> employee.getSalary() >= minSalary)
+                            .sorted((e1, e2) -> e1.getEmpId()
+                            .compareTo(e2.getEmpId()))
+                            .map(employee -> String.format("%s %s %.1f", employee.getEmpId(), employee.getEmpName(), employee.getSalary()))
+                            .toArray();
+                            
         return Arrays.copyOf(objects, objects.length, String[].class);
     }
 }
