@@ -1,32 +1,35 @@
-import java.util.*;
-
-class Product implements Comparable<Product> {
-    private final String name;
-    private final double price;
-    private final double discount;
-
-    public Product(String name, double price, double discount) {
-        this.name = name;
-        this.price = price;
-        this.discount = discount;
-    }
-
-    public Double getDiscountPrice() {
-        return price * discount / 100;
-    }
-
-    @Override
-    public int compareTo(Product other) {
-        return this.getDiscountPrice().compareTo(other.getDiscountPrice());
-    }
-
-    @Override
-    public String toString() {
-        return name;
-    }
-}
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
 
 class Main {
+    private static class Product implements Comparable<Product> {
+        private final String name;
+        private final double price;
+        private final double discount;
+
+        public Product(String name, double price, double discount) {
+            this.name = name;
+            this.price = price;
+            this.discount = discount;
+        }
+
+        public Double getDiscountPrice() {
+            return price * discount / 100;
+        }
+
+        @Override
+        public int compareTo(Product other) {
+            return this.getDiscountPrice().compareTo(other.getDiscountPrice());
+        }
+
+        @Override
+        public String toString() {
+            return name;
+        }
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<Product> products = new ArrayList<>();

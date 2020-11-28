@@ -19,6 +19,7 @@ Assume the minimum discount offer is in the form of Integer.
     laptop,35000,5
 
 > Sample Output 1:
+
     shoe
 
 ### Explanation
