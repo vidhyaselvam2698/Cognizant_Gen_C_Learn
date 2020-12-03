@@ -58,7 +58,7 @@ public class Placement {
             } else {
                 System.out.println("Highest placement");
                 departmentArrayList.stream()
-                        .filter(department -> department.placements == departmentSet.first().placements)
+                        .filter(department -> department.placements == Collections.max(departmentArrayList).getPlacements())
                         .forEach(System.out::println);
             }
         }

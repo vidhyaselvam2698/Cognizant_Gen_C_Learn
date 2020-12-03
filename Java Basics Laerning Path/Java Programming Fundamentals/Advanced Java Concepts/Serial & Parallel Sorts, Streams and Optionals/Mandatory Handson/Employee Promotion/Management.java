@@ -36,6 +36,8 @@ public class Management extends Thread {
 
     @Override
     public void run() {
-        count = (int) employeeList.stream().filter(employee -> employee.getEmpSalary() >= salaryLimit).count();
+        count = (int) employeeList.stream()
+        .filter(employee -> employee.getEmpSalary() >= salaryLimit)
+        .count();
     }
 }

@@ -18,6 +18,7 @@ public class TrainManagementSystem {
                     "order by train_number;");
             preparedStatement.setString(1, src);
             preparedStatement.setString(2, dest);
+            
             ResultSet resultSet = preparedStatement.executeQuery();
 
             while (resultSet.next()) {

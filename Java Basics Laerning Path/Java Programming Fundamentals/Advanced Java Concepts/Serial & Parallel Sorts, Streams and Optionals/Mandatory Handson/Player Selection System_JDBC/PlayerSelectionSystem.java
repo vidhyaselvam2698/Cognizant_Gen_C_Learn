@@ -18,6 +18,7 @@ public class PlayerSelectionSystem {
                             "and weight <= ?" +
                             "order by  playerName"
             );
+            
             preparedStatement.setDouble(1, minHeight);
             preparedStatement.setDouble(2, maxWeight);
             ResultSet resultSet = preparedStatement.executeQuery();

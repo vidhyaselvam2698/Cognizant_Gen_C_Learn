@@ -24,15 +24,9 @@ public class Library {
     }
 
     public ArrayList<Book> viewBooksByAuthor(String author) {
-        ArrayList<Book> booksByAuthor = new ArrayList<>();
-
-        for (Book book : bookList) {
-            if (book.getAuthor().contains(author)) {
-                booksByAuthor.add(book);
-            }
-        }
-
-        return booksByAuthor;
+        return bookList.stream()
+                        .filter(book -> book.getAuthor().contains(author))
+                        .collect(Collectors.toList());
     }
 
     public int countnoofbook(String bname) {

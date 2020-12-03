@@ -35,8 +35,8 @@ public class PhoneBook {
 
         if (contact == null) {
             return false;
-        } {
-            return phoneBook.remove(contact);
-        }
+        } 
+        
+        return phoneBook.remove(contact);
     }
 }

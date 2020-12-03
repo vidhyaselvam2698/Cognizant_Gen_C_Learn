@@ -1,8 +1,6 @@
 package com.utility;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class Bazaar {
     private Map<Integer, String> policyMap;
@@ -20,14 +18,10 @@ public class Bazaar {
     }
 
     public List<Integer> searchBasedOnPolicyType(String policyType) {
-        List<Integer> policies = new ArrayList<>();
-
-        for (int policyId : policyMap.keySet()) {
-            if (policyMap.get(policyId).contains(policyType)) {
-                policies.add(policyId);
-            }
-        }
-
-        return policies;
+        return policyMap.entrySet()
+                        .stream()
+                        .filter(entry -> entry.getValue().equals(policyType))
+                        .map(Map.Entry::getKey)
+                        .collect(Collectors.toList());
     }
 }
