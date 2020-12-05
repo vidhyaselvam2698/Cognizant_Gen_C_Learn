@@ -43,10 +43,7 @@ public class LoginAspect {
     }
 
 
-    @AfterThrowing(value = "execution(public void com.cts.SpringAopDemo.EasyBank.showBalance(..)) || " +
-            "execution(public void com.cts.SpringAopDemo.EasyBank.doDeposit(..)) || " +
-            "execution(public void com.cts.SpringAopDemo.EasyBank.doWithdraw(..)) || " +
-            "execution(public void com.cts.SpringAopDemo.EasyBank.doChangePin(..))")
+    @AfterThrowing(value = "within(com.cts.SpringAopDemo.EasyBank)")
     public void afterWrongPin() {
         System.out.println("Invalid Pin");
     }
