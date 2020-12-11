@@ -7,4 +7,3 @@ Given the Member, MemberDAO, Book, BookDAO, Transaction and TransactionDAO class
 Refactor the given classes by applying the PMD rule set. 
 
 Refactor the given code in LMS class by checking the variable usage, variable naming conventions, method naming conventions, method parameters, Code size ,Constructor call,import statements, control structures,unused code, String instantiation and access specifiers.
-
