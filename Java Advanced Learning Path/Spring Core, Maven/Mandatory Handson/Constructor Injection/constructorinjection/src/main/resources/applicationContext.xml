@@ -4,16 +4,16 @@
 http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
 
     <bean id="custObj" class="com.spring.app.Customer">
-        <constructor-arg value="1" type="int" index="0"/>
-        <constructor-arg value="SD" type="String" index="1"/>
-        <constructor-arg value="S@s.com" type="String" index="2"/>
-        <constructor-arg value="1234567890" type="long" index="3"/>
+        <constructor-arg index="0" type="int" value="101" />
+        <constructor-arg index="1" type="java.lang.String" value="Ritam" />
+        <constructor-arg index="2" type="java.lang.String" value="ritam@gmail.com" />
+        <constructor-arg index="3" type="long" value="9876543210" />
     </bean>
-
-    <bean id="member" class="com.spring.app.MemberShip">
-        <constructor-arg value="100" type="int" index="0"/>
-        <constructor-arg value="Permanent" type="String" index="1"/>
-        <constructor-arg value="-1" type="int" index="2"/>
-        <constructor-arg ref = "custObj"/>
+    
+    <bean id="memberShipObj" class="com.spring.app.MemberShip" >
+        <constructor-arg index="0" type="int" value="1001" />
+        <constructor-arg index="1" type="java.lang.Spring" value="Permanent" />
+        <constructor-arg index="2" type="int" value="12" />
+        <constructor-arg index="4" ref="custObj" />
     </bean>
 </beans>
