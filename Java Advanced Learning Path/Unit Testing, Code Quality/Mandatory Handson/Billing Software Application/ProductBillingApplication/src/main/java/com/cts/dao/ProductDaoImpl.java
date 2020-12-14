@@ -2,6 +2,7 @@ package com.cts.dao;
 
 import com.cts.bean.Product;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
@@ -20,18 +21,9 @@ public class ProductDaoImpl implements ProductDao {
 
     @Override
     public Product getProductDetails(final int product_code) {
-        String sql = "select * from product where product_code = " + product_code;
-        return template.queryForObject(sql, new RowMapper<Product>() {
-            @Override
-            public Product mapRow(ResultSet resultSet, int i) throws SQLException {
-                int productCode = resultSet.getInt(1);
-                String productName = resultSet.getString(2);
-                String productCategory = resultSet.getString(3);
-                String productDesc = resultSet.getString(4);
-                double productPrice = resultSet.getDouble(5);
+        String sql = "select * from product where product_code = ?";
+        BeanPropertyRowMapper<Product> productBeanPropertyRowMapper = BeanPropertyRowMapper.newInstance(Product.class);
 
-                return new Product(productCode, productName, productCategory, productDesc, productPrice);
-            }
-        });
+        return template.queryForObject(sql, new Object[]{product_code}, productBeanPropertyRowMapper);
     }
 }
