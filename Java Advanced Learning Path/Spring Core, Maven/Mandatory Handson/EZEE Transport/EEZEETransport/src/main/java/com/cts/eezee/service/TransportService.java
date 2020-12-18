@@ -64,6 +64,7 @@ public class TransportService {
     public double getCost(String destination) {
         ApplicationContext context = new ClassPathXmlApplicationContext("bean.xml");
         Vehicle vehicle = context.getBean("vehicle", Vehicle.class);
+        
         return vehicle.getDestinationMap().get(destination);
     }
 

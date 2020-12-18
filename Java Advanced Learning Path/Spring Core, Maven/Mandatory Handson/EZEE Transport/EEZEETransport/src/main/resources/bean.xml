@@ -4,6 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="booking" class="com.cts.eezee.model.Booking"/>
+    
     <bean id="vehicle" class="com.cts.eezee.model.Vehicle">
         <constructor-arg index="0" value="Chennai"/>
         <constructor-arg index="1">

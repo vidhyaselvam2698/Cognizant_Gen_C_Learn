@@ -46,7 +46,7 @@ public class EasyBank {
 
     public void doDeposit(int amount) {
         balance += amount;
-        System.out.println("Your balance is " + balance);
+        System.out.println("Your  balance is " + balance);
     }
 
     public void doChangePin(int oldPin, int pin) {
