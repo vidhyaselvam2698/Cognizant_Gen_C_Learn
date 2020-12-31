@@ -19,8 +19,10 @@ import static org.mockito.Mockito.*;
 public class GenerateISBNTest {
     @Mock
     Book book;
+
     @InjectMocks
     GenerateISBN service;
+    
     @Rule
     public ExpectedException exceptionRule = ExpectedException.none();
 

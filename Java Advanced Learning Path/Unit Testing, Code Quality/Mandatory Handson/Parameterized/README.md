@@ -39,11 +39,9 @@ First create Parameterized test class named as RainbowJewellersParameterizedTest
 
 Create below attributes.
 
-<p align="center">
 | Type(Class) | Attributes |
 | ----------- | ---------- |
 | RainbowJewellersParameterizedTest | double gram<br>double expectedgoldprice |
-</p>
 
 Create a constructor that stores the test data.
 

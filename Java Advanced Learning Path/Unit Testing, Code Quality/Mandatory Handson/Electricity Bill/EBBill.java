@@ -1,4 +1,3 @@
-
 public class EBBill {
     private int units;
 
@@ -8,6 +7,7 @@ public class EBBill {
 
     public double calculateBillAmount() {
         double amount = 0.0;
+
         if (units > 0) {
             if (units <= 50) {
                 amount = units * 2.60;
@@ -22,7 +22,6 @@ public class EBBill {
             } else {
                 amount = 0.0;
             }
-
         }
 
         return amount;
