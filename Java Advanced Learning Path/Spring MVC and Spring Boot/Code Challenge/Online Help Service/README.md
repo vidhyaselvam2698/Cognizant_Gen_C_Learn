@@ -16,7 +16,7 @@ totalCost should be returned as double
 
 | Service Type | cost/hr(in Rs) |
 | ------------ | -------------- | 
-| ACService | 400 |  
+| ACService | 400 |
 | WashingMachineService | 500 |
 | RefrigeratorService | 300 |
 
