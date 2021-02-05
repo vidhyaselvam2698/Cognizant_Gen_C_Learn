@@ -2,6 +2,33 @@
 
 <h2>Java Basic Learning Path</h2>
 
+<h3>User Interface Design</h3>
+
+<h4>HTML5</h4>
+
+- [Simple CALCULATOR](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/User%20Interface%20Design/HTML5/Simple%20CALCULATOR)
+- [Learning Material Styling](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/User%20Interface%20Design/HTML5/Learning%20Material%20Styling)
+
+<h4>CSS3</h4>
+
+<h6>Mandatory Handson</h6>
+
+- []()
+- []()
+- []()
+
+<h6>Additional Handson</h6>
+
+- []()
+
+<h4>JavaScript</h4>
+
+<h6>Mandatory Handson</h6>
+
+<h6>Additional Handson</h6>
+
+<h3>SQL Programming</h3>
+
 <h3>Java Programming Fundamentals</h3>
 
 <h4>Java Programming</h4>
@@ -93,7 +120,7 @@
 - [Retrieving Data from file](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Retriving%20Data%20from%20file)
 - [Mall Parking System](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Mall%20Parking%20System)
 - [Employee Loan Eligibility](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Employee%20Loan%20Eligibility)
-- [Placement Enrollment Count]()
+- [Placement Enrollment Count](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Placement%20Enrollment%20Count)
 - [Fruit Basket Estimation](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Fruit%20Basket%20Estimation)
 - [Employee Promotion](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Employee%20Promotion)
 - [Add Flight using JDBC](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Add%20Flight%20using%20JDBC)
