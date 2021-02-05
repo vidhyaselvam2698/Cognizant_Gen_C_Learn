@@ -72,7 +72,14 @@
 
 <h6>Mandatory Handson</h6>
 
+- [Number of New Words](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Collections%20Framework/Collection%2C%20Generics%20and%20Stream%20API/Mandatory%20Handson/Number%20of%20New%20Words)
+- [Insurance Bazaar](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Collections%20Framework/Collection%2C%20Generics%20and%20Stream%20API/Mandatory%20Handson/Insurance%20Bazaar)
+- [PhoneBook Manipulation](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Collections%20Framework/Collection%2C%20Generics%20and%20Stream%20API/Mandatory%20Handson/PhoneBook%20Manipulation)
+
 <h6>Additional Handson</h6>
+
+- [Count of Each Words](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Collections%20Framework/Collection%2C%20Generics%20and%20Stream%20API/Additional%20Handson/Count%20of%20Each%20Words)
+- [Book Manipulation](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Collections%20Framework/Collection%2C%20Generics%20and%20Stream%20API/Additional%20Handson/Book%20Manipulation)
 
 <h4>Advanced Java Concepts</h4>
 
@@ -80,5 +87,23 @@
 
 <h6>Mandatory Handson</h6>
 
+- [Auditing](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Auditing)
+- [Travel Agency](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Travel%20Agency)
+- [Validate Name](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Validate%20Name)
+- [Retrieving Data from file](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Retriving%20Data%20from%20file)
+- [Mall Parking System](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Mall%20Parking%20System)
+- [Employee Loan Eligibility](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Employee%20Loan%20Eligibility)
+- [Placement Enrollment Count]()
+- [Fruit Basket Estimation](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Fruit%20Basket%20Estimation)
+- [Employee Promotion](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Employee%20Promotion)
+- [Add Flight using JDBC](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Add%20Flight%20using%20JDBC)
+- [Search for Trains - JDBC](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Search%20for%20Trains%20-%20JDBC)
+- [Player Selection System_JDBC](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Mandatory%20Handson/Player%20Selection%20System_JDBC)
+
 <h6>Additional Handson</h6>
 
+- [Visitors Details](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Additional%20Handson/Visitors%20Details)
+- [College Account](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Additional%20Handson/Collage%20Account)
+- [Participant List Manipulation](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Additional%20Handson/Participant%20List%20Manipulation)
+- [Retrieve ID and Price of mobiles with in the range_JDBC](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Additional%20Handson/Retrieve%20ID%20and%20Price%20of%20mobiles%20with%20in%20the%20range_JDBC)
+- [Retrieve customer count based on loan type_JDBC](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Additional%20Handson/Retrieve%20customer%20count%20based%20on%20loan%20type_JDBC)
