@@ -13,19 +13,24 @@
 
 <h6>Mandatory Handson</h6>
 
-- []()
-- []()
-- []()
+- [FeedBack Details](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/User%20Interface%20Design/CSS3/Mandatory%20Handson/FeedBack%20Details)
+- [Bill Calculator](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/User%20Interface%20Design/CSS3/Mandatory%20Handson/Bill%20Calculator)
+- [Trainer's Feedback Rating Chart](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/User%20Interface%20Design/CSS3/Mandatory%20Handson/Trainer%20Feedback%20Rating%20Chart)
 
 <h6>Additional Handson</h6>
 
-- []()
+- [Rate Card For Boat Riding](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/User%20Interface%20Design/CSS3/Additional%20Handson/Rate%20Card%20For%20Boat%20Riding)
 
 <h4>JavaScript</h4>
 
 <h6>Mandatory Handson</h6>
 
+- [ACTB Connection Portal](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/User%20Interface%20Design/JavaScript/Mandatory%20Handson/ACTB%20Connection%20Portal)
+- [EMI Calculator](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/User%20Interface%20Design/JavaScript/Mandatory%20Handson/EMI%20Calculator)
+
 <h6>Additional Handson</h6>
+
+- [Fixed and Reducing Interest Loan Estimator](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/User%20Interface%20Design/JavaScript/Additional%20Handson/Fixed%20and%20Reducing%20Interest%20Loan%20Estimator)
 
 <h3>SQL Programming</h3>
 
