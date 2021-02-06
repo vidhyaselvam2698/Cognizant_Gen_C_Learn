@@ -34,6 +34,52 @@
 
 <h3>SQL Programming</h3>
 
+<h4>SQL Basics with DML and DDL Statements</h4>
+
+<h6>Mandatory Handson</h5>
+
+- [Insert Records - Department](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Mandatory%20Handson/Insert%20Records%20-%20Department)
+- [Department name based on block number](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Mandatory%20Handson/Department%20name%20based%20on%20block%20number)
+- [Student and their Department Based on City](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Mandatory%20Handson/Student%20and%20their%20Department%20Based%20on%20City)
+- [Hunger eats - update table](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Mandatory%20Handson/Hunger%20eats%20-%20update%20table)
+- [Delivery Partner details based on rating](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Mandatory%20Handson/Delivery%20Partner%20details%20based%20on%20rating)
+- [car rental system - Insert values](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Mandatory%20Handson/car%20rental%20system%20-%20Insert%20values)
+- [Customers having gmail id](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Mandatory%20Handson/Customers%20having%20gmail%20id)
+- [Car details based on type and name](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Mandatory%20Handson/Car%20details%20based%20on%20type%20and%20name)
+- [Car & owner details based on car type](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Mandatory%20Handson/Car%20%26%20owner%20details%20based%20on%20car%20type)
+
+<h6>Additional Handson</h6>
+
+- [Car rental system - Create Table](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Additional%20Handson/Car%20rental%20system%20-%20Create%20Table)
+- [Car rental system - add new column](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Additional%20Handson/Car%20rental%20system%20-%20add%20new%20column)
+- [Hunger eats - Change the field name](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Additional%20Handson/Hunger%20eats%20-%20Change%20the%20field%20name)
+- [Hunger eats - change datatype](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/SQL%20Basics%20with%20DML%20and%20DDL%20Statements/Additional%20Handson/Hunger%20eats%20-%20change%20datatype)
+
+<h4>Querying Database - Operators,  Aggregate, String, Date Functions</h4>
+
+<h6>Mandatory Handson</h6>
+
+- [Concatenating Details](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Mandatory%20Mandson/Concatenating%20Details)
+- [Hotels that took order based on month](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Mandatory%20Mandson/Hotels%20that%20took%20order%20based%20on%20month)
+- [Hotel_info](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Mandatory%20Mandson/Hotel_info)
+- [Rental details based on date](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Mandatory%20Mandson/Rental%20details%20based%20on%20date)
+- [Password Generation](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Mandatory%20Mandson/Password%20Generation)
+- [Customer using HDFC bank](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Mandatory%20Mandson/Customer%20using%20HDFC%20bank)
+
+<h6>Additional Handson</h6>
+
+- [Total sale daywise](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Total%20sale%20daywise)
+- [Hotels that took order more than five times](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Hotels%20that%20took%20order%20more%20than%20five%20times)
+- [Credential details](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Credential%20details)
+- [Maruthi car owner details](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Maruthi%20car%20owner%20details)
+- [Cars not taken for rent](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Cars%20not%20taken%20for%20rent)
+- [Customer mail details](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Customer%20mail%20details)
+- [No of time rented by each car](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/No%20of%20time%20rented%20by%20each%20car)
+- [Order details](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Order%20details)
+- [Hotels not taken orders in a specific month](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Hotels%20not%20taken%20orders%20in%20a%20specific%20month)
+- [Number of Tickets Booked](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Number%20of%20Tickets%20Booked)
+- [Buses based on Source and Destination](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/SQL%20Programming/Querying%20Database%20-%20Operators%2C%20%20Aggregate%2C%20String%2C%20Date%20Functions/Additional%20Handson/Buses%20based%20on%20Source%20and%20Destination)
+
 <h3>Java Programming Fundamentals</h3>
 
 <h4>Java Programming</h4>

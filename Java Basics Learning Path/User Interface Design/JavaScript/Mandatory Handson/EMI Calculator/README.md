@@ -16,7 +16,6 @@ All Tags, Elements and Attributes should conform to HTML5 Standards. All the fie
 
 Provide the details as given in the table below.
 
-
 <table>
 <thead>
 <tr>
