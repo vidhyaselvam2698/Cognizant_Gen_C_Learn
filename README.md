@@ -194,7 +194,7 @@
 
 <h3>Spring Core, Maven</h3>
 
-<h6>Mandatory Handson<h6>
+<h6>Mandatory Handson</h6>
 
 - [Constructor Injection](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/Constructor%20Injection)
 - [Autowiring](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/Autowiring)
@@ -211,7 +211,7 @@
 
 <h6>Additional Handson</h6>
 
-- [Patient Management]()
+- [Patient Management](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Additional%20Handson/PatientManagement)
 - [EBill]()
 
 <h4>Code Challenge</h4>
