@@ -185,3 +185,71 @@
 - [Participant List Manipulation](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Additional%20Handson/Participant%20List%20Manipulation)
 - [Retrieve ID and Price of mobiles with in the range_JDBC](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Additional%20Handson/Retrieve%20ID%20and%20Price%20of%20mobiles%20with%20in%20the%20range_JDBC)
 - [Retrieve customer count based on loan type_JDBC](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/Java%20Programming%20Fundamentals/Advanced%20Java%20Concepts/Serial%20%26%20Parallel%20Sorts%2C%20Streams%20and%20Optionals/Additional%20Handson/Retrieve%20customer%20count%20based%20on%20loan%20type_JDBC)
+
+<h3>ICT</h3>
+
+- [WeCare Health Insurance](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/ICT/Insurance)
+
+<h2>Java Advanced Learning Path</h2>
+
+<h3>Spring Core, Maven</h3>
+
+<h6>Mandatory Handson<h6>
+
+- [Constructor Injection](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/Constructor%20Injection)
+- [Autowiring](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/Autowiring)
+- [CurrencyConverter-Collections](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/CurrencyConverter-Collections)
+- [Customer-Address-Scope](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/Customer-Address-Scope)
+- [DBConfig-SetterBasedInjection](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/DBConfig-SetterBasedInjection)
+- [Customer-Address Inner Bean](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/Customer-Address%20Inner%20Bean)
+- [EZEE Transport](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/EZEE%20Transport)
+- [E-Banking](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/EBanking)
+- [Spring AOP Demo](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/SpringAopDemo)
+- [Engine Analysis](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/EngineAnalysis)
+- [Passport Service](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/Passport%20Service)
+- [Product Billing Application](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Mandatory%20Handson/Billing%20Software%20Application)
+
+<h6>Additional Handson</h6>
+
+- [Patient Management]()
+- [EBill]()
+
+<h4>Code Challenge</h4>
+
+- [GoGoParcelService](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Code%20Challenge/GoGoParcelService)
+
+<h3>Unit Testing, Code Quality</h3>
+
+<h6>Mandatory Handson</h6>
+
+- [Electricity Bill](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Mandatory%20Handson/Electricity%20Bill)
+- [Product Login Test suite](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Mandatory%20Handson/Product%20Login%20Test%20suite)
+- [Testing Using Assertion](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Mandatory%20Handson/Testing%20Using%20Assertion)
+- [Parameterized](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Mandatory%20Handson/Parameterized)
+- [TestMockDB](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Mandatory%20Handson/TestMockDB)
+- [Verify Call - JUnit using Mockito](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Mandatory%20Handson/Verify%20Call%20-%20JUnit%20using%20Mockito)
+- [Hands On - LMS Refactoring](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Mandatory%20Handson/LMS%20Refactoring)
+
+<h4>Code Challenge</h4>
+
+- [Movie Ticket Booking](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Code%20Challenge/movie_ticket_booking)
+- [Project Allocation Refactoring](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Code%20Challenge/ProjectAllocationRefactoring)
+
+<h3>Spring MVC and Spring Boot</h3>
+
+<h6>Mandatory Handson</h6>
+
+- [Front End-Internationalization](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20MVC%20and%20Spring%20Boot/Mandatory%20Handson/Fornt%20End-Internationalization)
+- [ZeeZeeLogin](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20MVC%20and%20Spring%20Boot/Mandatory%20Handson/ZeeZeeLogin)
+- [HolidayParty-Validations](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20MVC%20and%20Spring%20Boot/Mandatory%20Handson/HolidayParty-Validations)
+- [BakingoCakeService](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20MVC%20and%20Spring%20Boot/Mandatory%20Handson/BakingoCakeService)
+- [Age Calculator](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20MVC%20and%20Spring%20Boot/Mandatory%20Handson/Age%20Calculator)
+- [Body Mass Index](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20MVC%20and%20Spring%20Boot/Mandatory%20Handson/Body%20Mass%20Index)
+
+<h4>Code Challenge</h4>
+
+- [Online Help Services](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20MVC%20and%20Spring%20Boot/Code%20Challenge/Online%20Help%20Service)
+
+<h3>ICT</h3>
+
+- [Tax Management System](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/ICT)

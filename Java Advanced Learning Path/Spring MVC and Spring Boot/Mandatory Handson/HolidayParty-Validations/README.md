@@ -24,17 +24,17 @@ Create a Spring MVC Spring Boot Web Application for developing the Online Regist
 
 ### UI design Contraints
 
-![picture_1](picture_1.png)
+![picture_1](picture_1.jpg)
 
-![picture_2](picture_2.png)
+![picture_2](picture_2.jpg)
 
-![picture_3](picture_3.png)
+![picture_3](picture_3.jpg)
 
-![picture_4](picture_4.png)
+![picture_4](picture_4.jpg)
 
-![picture_5](picture_5.png)
+![picture_5](picture_5.jpg)
 
-![picture_6](picture_6.png)
+![picture_6](picture_6.jpg)
 
 > registrationpage.jsp
 
