@@ -35,6 +35,7 @@ This project currently does not connect with the DB server and therefore uses th
 All the labels are created as per the above page. The following table provides the more information about the above image.
 
 | Field Name | Field Type | Component ID | Description | 
+| ---------- | ---------- | ------------ | ----------- |
 |  | `<H1>` | heading | BMI Calculator – text of h1 tag | 
 | Form | `<form>` | form(should be name and not id)	|  |
 | name | Textbox | name | This field holds the customer name | 
